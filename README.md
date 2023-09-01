@@ -1,2 +1,2 @@
 # First_Repo
-Just learning how to us GitHub
+Just learning how to use GitHub
